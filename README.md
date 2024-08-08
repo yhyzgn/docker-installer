@@ -21,10 +21,6 @@ sudo curl -fsSL https://github.com/yhyzgn/docker-installer/releases/download/lat
 sudo curl -fsSL https://mirror.ghproxy.com/https://github.com/yhyzgn/docker-installer/releases/download/latest/linux.sh | bash -s docker --mirror Aliyun
 ```
 
-> 再备用（如果还是不行，就使用Gitee的链接吧）<br>
-```
-sudo curl -fsSL https://gitee.com/yhyzgn/docker-installer/releases/download/latest/linux.sh | bash -s docker --mirror Aliyun
-```
 启动docker
 ```
 sudo service docker start
