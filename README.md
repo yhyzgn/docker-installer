@@ -1,5 +1,5 @@
 # docker-installer
-Docker 官方安装包，用于解决大清无法访问 Docker 官网下载安装的问题
+> Docker 官方安装包，用于解决大清无法访问 Docker 官网下载安装的问题
 
 6月以来，大量Docker镜像网站停服，Docker无法下载安装<br>
 本仓库致力于解决国内网络原因无法使用Docker的问题。<br>
